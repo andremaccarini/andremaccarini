@@ -19,9 +19,16 @@ Welcome to my GitHub! I'm currently transitioning from a solid legal background 
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| [Customer Churn Prediction](https://github.com/andremaccarini/cs-churn-prediction-project) | Predicting customer attrition using Random Forest and SVC with feature engineering and class balancing. | `scikit-learn`, `pandas`, `matplotlib`, `feature engineering`, `ROC Curve` |
-| [Plan Recommendation (Megaline)](https://github.com/andremaccarini/cs-customer-plan-classification) | Recommender system to suggest the best mobile plan for users based on usage patterns. | `scikit-learn`, `pandas`, `matplotlib`, `feature engineering`, `ROC Curve` |
+| [Customer Churn Prediction](https://github.com/andremaccarini/cs-churn-prediction-project) | Predicting customer attrition using multiple models with feature engineering and class balancing. | `scikit-learn`, `pandas`, `matplotlib`, `RandomForest`, `LogisticRegression`, `SVC`, `feature engineering`, `ROC Curve` |
+| [Plan Recommendation (Megaline)](https://github.com/andremaccarini/cs-customer-plan-classification) | Recommender system to suggest the best mobile plan for users based on usage patterns. | `scikit-learn`, `pandas`, `matplotlib`, `RandomForest`, `LogisticRegression`, `SVC`, `feature engineering`, `ROC Curve` |
 | [Snake Game in Pygame](https://github.com/andremaccarini/classic-snake-game-python) | A classic Snake game developed using Python and the Pygame library. | `pygame`, `OOP`, `event handling`, `game loop`, `modular code` |
+| [Car Data Visualization](https://github.com/andremaccarini/car-data-visualization) | Streamlit dashboard to explore used car listings data interactively. Built with Python, Plotly Express, and Streamlit. | `streamlit`, `plotly express`, `pandas`, `EDA`, `data visualization`, `interactive UI` |
+| [Coin Flip Simulation](https://github.com/andremaccarini/coin-flip-simulation-streamlit) | Interactive Bernoulli distribution simulator using Streamlit. Demonstrates the Law of Large Numbers through real-time charts. | `streamlit`, `scipy`, `pandas`, `bernoulli`, `probability`, `data simulation` |
+| [Tower of Hanoi](https://github.com/andremaccarini/tower-of-hanoi-python-stacks) | Terminal-based game using custom Stack and Node classes to implement the Towers of Hanoi logic. | `python`, `stacks`, `linked list`, `oop`, `algorithms` |
+| [Recursive Chatbot](https://github.com/andremaccarini/recursive-chatbot-terminal) | Terminal-based decision tree chatbot built with recursive logic and tree data structures. | `python`, `recursion`, `tree`, `cli`, `decision tree` |
+| [Ethical Practices Advisor](https://github.com/andremaccarini/ethical-practices-advisor) | CLI-based compliance recommender using JSON, tailored to different sectors. | `python`, `json`, `cli`, `file I/O`, `compliance` |
+| [Meal Recommendation CLI & GUI App](https://github.com/andremaccarini/meal-recommendation-cli-app) | Meal planner using object-oriented logic and dual interface (CLI + GUI with Tkinter). | `python`, `oop`, `tkinter`, `cli`, `inheritance`, `scaling` |
+
 
 ---
 
