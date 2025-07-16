@@ -1,6 +1,6 @@
 # 👋 Hi, I'm André Maccarini
 
-### 📊 Data Science | 📚 Law | 💻 Tech Transition
+### 📊 Data Science | 📚 Compliance | 💻 Tech Transition
 
 Welcome to my GitHub! I'm currently transitioning from a solid legal background to the field of **Data Science** and **Machine Learning**, where I combine critical thinking, structured analysis, and programming to solve real-world problems.
 
