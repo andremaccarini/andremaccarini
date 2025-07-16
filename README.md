@@ -19,6 +19,7 @@ Welcome to my GitHub! I'm currently transitioning from a solid legal background 
 
 | Project | Description | Tools |
 |--------|-------------|--------|
+| [Oil Region Selection](https://github.com/andremaccarini/cs-oilygiant-well-selection) | Region recommendation for oil well drilling using linear regression, bootstrapping and risk estimation. | `scikit-learn`, `pandas`, `matplotlib`, `LinearRegression`, `bootstrapping`, `confidence interval`, `EDA` |
 | [Customer Churn Prediction](https://github.com/andremaccarini/cs-churn-prediction-project) | Predicting customer attrition using multiple models with feature engineering and class balancing. | `scikit-learn`, `pandas`, `matplotlib`, `RandomForest`, `LogisticRegression`, `SVC`, `feature engineering`, `ROC Curve` |
 | [Plan Recommendation (Megaline)](https://github.com/andremaccarini/cs-customer-plan-classification) | Recommender system to suggest the best mobile plan for users based on usage patterns. | `scikit-learn`, `pandas`, `matplotlib`, `RandomForest`, `LogisticRegression`, `SVC`, `feature engineering`, `ROC Curve` |
 | [Snake Game in Pygame](https://github.com/andremaccarini/classic-snake-game-python) | A classic Snake game developed using Python and the Pygame library. | `pygame`, `OOP`, `event handling`, `game loop`, `modular code` |
